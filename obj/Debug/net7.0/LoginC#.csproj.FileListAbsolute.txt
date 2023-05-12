@@ -13,3 +13,9 @@
 /Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.pdb
 /Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.genruntimeconfig.cache
 /Users/naimu/LoginC#/obj/Debug/net7.0/ref/LoginC#.dll
+/Users/naimu/LoginC#/bin/Debug/net7.0/Firebase.dll
+/Users/naimu/LoginC#/bin/Debug/net7.0/LiteDB.dll
+/Users/naimu/LoginC#/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/naimu/LoginC#/bin/Debug/net7.0/System.Reactive.dll
+/Users/naimu/LoginC#/bin/Debug/net7.0/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.csproj.CopyComplete
