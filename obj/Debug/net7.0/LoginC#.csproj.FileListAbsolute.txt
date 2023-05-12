@@ -1,0 +1,15 @@
+/Users/naimu/LoginC#/bin/Debug/net7.0/LoginC#
+/Users/naimu/LoginC#/bin/Debug/net7.0/LoginC#.deps.json
+/Users/naimu/LoginC#/bin/Debug/net7.0/LoginC#.runtimeconfig.json
+/Users/naimu/LoginC#/bin/Debug/net7.0/LoginC#.dll
+/Users/naimu/LoginC#/bin/Debug/net7.0/LoginC#.pdb
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.csproj.AssemblyReference.cache
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.AssemblyInfoInputs.cache
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.AssemblyInfo.cs
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.csproj.CoreCompileInputs.cache
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.dll
+/Users/naimu/LoginC#/obj/Debug/net7.0/refint/LoginC#.dll
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.pdb
+/Users/naimu/LoginC#/obj/Debug/net7.0/LoginC#.genruntimeconfig.cache
+/Users/naimu/LoginC#/obj/Debug/net7.0/ref/LoginC#.dll
