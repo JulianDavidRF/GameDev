@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164047524559",
+    "firebase_url": "https://gamedev-81a71-default-rtdb.firebaseio.com",
+    "project_id": "gamedev-81a71",
+    "storage_bucket": "gamedev-81a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164047524559:android:464cb8c84239b54425ddba",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.GameDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164047524559-638ckh0vu159696a5t9efrugrocgg0v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyuDdYYw0vmaV74-6vpIWVepqQkuGzGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164047524559-638ckh0vu159696a5t9efrugrocgg0v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
